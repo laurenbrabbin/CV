@@ -1,4 +1,4 @@
-## Your Name
+## LAUREN BRABBIN
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,8 +11,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Hut Group** (Sept 2021 - Jul 2022)  
+Graduate E-commerce Trading Exceutive 
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
