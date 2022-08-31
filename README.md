@@ -74,6 +74,9 @@ I have been part of many different teams at work, during education and also in m
 - Modules Include: Economics for Management, Industrial Economics, Understanding Statistics, International Strategic Management, Transnational Corporations, Research Methods, Consumer Behaviour, Cross-Cultural Management, Marketing Strategy, Global Entrepreneurship, International Marketing
 - Pass Leader: menotored 15 first year univeristy students and lead informative sessions for them every fortnight.
 
+#### Harrogate Grammar School (Sept 2014 to Jul 2018)
+- A Levels: Maths (A), Biology (A) and Psychology (A)
+- GCSEs: 11 A* - Bs. Including A* in Maths and A in English. 
 
 ## Hobbies
 
