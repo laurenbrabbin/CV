@@ -2,7 +2,7 @@
 
 I am an aspiring software developer who loves to see meaningful projects come to life that positively impact others. I am creative, analytical and love to problem solve.
 
-After graduatig from university last summer, I joined THG as an E-commerce Trading Executive where I was resposible for all things to do with the website such as builing pages and making improvements to improve UX and UI. My key achievement was redesigning the landing page for our bestselling range which lead to an increase in conversion rate from 0.5ppnts to 4.2ppnts. 
+After graduatig from university last summer, I joined THG as an E-commerce Trading Executive where I was resposible for all things to do with the website such as design, builing and improving webpages. My key achievement was redesigning the landing page for our bestselling range which lead to an increase in conversion rate from 0.5ppnts to 4.2ppnts. 
 
 My excitement for learning more about tech has led me to a new adventure of learning Software Development through Makers Academy. I will be undertaking a 12 week intensive coding bootcamp followed by joining BCB group as a trainee fullstack developer in December to put my new learnings into practice. 
 
